@@ -5,6 +5,10 @@ Markdown 파일을 **표가 읽기 편한 HTML**로 변환해 주는 작은 파�
 
 *A single-file Python script that bakes Markdown into standalone HTML pages with sortable, resizable, filterable tables. English summary below.*
 
+![예제 표를 「Growth %p」 내림차순으로 정렬한 화면](docs/screenshot.png)
+
+`examples/sample.md`를 변환해 「Growth %p」 열을 내림차순으로 정렬한 화면입니다.
+
 ## 표에 붙는 기능
 
 | 기능 | 사용법 |
